@@ -86,13 +86,13 @@ main {
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 footer {
-    width:960px;
+    width:70%;
     background-color: #4aaaa5; /* teal */
     position: fixed;
     bottom: 0;
     color:white;
     
-    margin: 10px 0 0 0;
+    margin: 10px 30% 0 0;
     padding: 10px 0 0 0;
 }
 
@@ -159,7 +159,7 @@ footer {
     text-align: center;
 }
 
-/* responive */
+/* responsive */
 
 @media only screen and (max-width: 768px) {
     body {
